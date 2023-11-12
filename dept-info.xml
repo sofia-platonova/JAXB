@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organization>
+    <orgName>ItCompany</orgName>
+    <numbDepartments>2</numbDepartments>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E01</empNo>
+                    <empName>Tom</empName>
+                </employee>
+                <employee>
+                    <empNo>E02</empNo>
+                    <empName>Mary</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>MARKETING</deptName>
+            <location>LONDON</location>
+            <employees>
+                <employee>
+                    <empNo>E03</empNo>
+                    <empName>John</empName>
+                </employee>
+                <employee>
+                    <empNo>E04</empNo>
+                    <empName>Lisa</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D03</deptNo>
+            <deptName>MANAGEMENT</deptName>
+            <location>MOSCOW</location>
+            <employees>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>Matt</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E06</empNo>
+                    <empName>Will</empName>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organization>
